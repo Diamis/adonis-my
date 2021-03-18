@@ -1,0 +1,4 @@
+{
+  "typescript": true,
+  "preloads": ["./start/routes", "./start/kernel"]
+}
